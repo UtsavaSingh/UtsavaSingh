@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavasingh&label=Profile%20views&color=0e75b6&style=flat" alt="utsavasingh" /> </p>
 
-- 🔭 I’m currently working on **Address Database**
+- 🔭 I’m currently working on **Student Record System**
 
 - 🌱 I’m currently learning **Embedded C programing language**
 
